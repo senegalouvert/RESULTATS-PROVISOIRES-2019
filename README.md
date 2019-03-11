@@ -7,8 +7,9 @@ Résultats provisoires de l'élection présidentielle du 24 février 2019 par d�
 ### Fichier CSV
 
 | Departement | bureau | Inscrits | Votants | Enveloppes | exprimes | Madické NIANG | Macky SALL | El hadji SALL | Idrissa SECK | Ousmane SONKO |
-| --------- |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|   xxxxx   | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx |
+| --------- |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|   xxxxx   | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx |
+
 ### Métadonnée
 ```
 * Départements
